@@ -15,7 +15,8 @@ A fun terminal-based number guessing game built in C++ using Object-Oriented Pro
 	• 🔁 Replay support
 
 🕹️ How to Play
-	• Choose a mode:
+
+Choose a mode:
 
 	• Single Player: Play solo, level up and earn points.
 
